@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+# Adley Goh's Portfolio
 
-You can use the [editor on GitHub](https://github.com/yeldaaa/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to my github portfolio! A little bit about myself, I am a penultimate student at Nanyang Technological University majoring in Business Analytics, I have a keen interest in data and helping businesses identify and solve problems. 
 
 ### Markdown
 
