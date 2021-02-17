@@ -2,34 +2,16 @@
 
 Welcome to my github portfolio! A little bit about myself, I am a penultimate student at Nanyang Technological University majoring in Business Analytics, I have a keen interest in data and helping businesses identify and solve problems. 
 
-### Projects
+## Projects
 
 1. Bus Booking GUI 
+My team and I developed a bus booking GUI four our project submission using only Python and JSON for data capturing. Here's a glimpse to how our GUI looked like.
 
-```markdown
-Syntax highlighted code block
+Login Page
+![main](https://github.com/yeldaaa/portfolio/blob/main/images/main.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+Main Menu
+![menu](https://github.com/yeldaaa/portfolio/blob/main/images/main_menu.jpg)
 
-- Bulleted
-- List
+More information and the code can be found [here](https://github.com/yeldaaa/Bus-Booking-GUI)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yeldaaa/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
