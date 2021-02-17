@@ -8,9 +8,11 @@ Welcome to my github portfolio! A little bit about myself, I am a penultimate st
 My team and I developed a bus booking GUI four our project submission using only Python and JSON for data capturing. Here's a glimpse to how our GUI looked like.
 
 Login Page
+
 ![main](https://github.com/yeldaaa/portfolio/blob/main/images/main.jpg)
 
 Main Menu
+
 ![menu](https://github.com/yeldaaa/portfolio/blob/main/images/main_menu.jpg)
 
 More information and the code can be found [here](https://github.com/yeldaaa/Bus-Booking-GUI)
