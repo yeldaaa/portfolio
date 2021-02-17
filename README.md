@@ -5,7 +5,7 @@ Welcome to my github portfolio! A little bit about myself, I am a penultimate st
 ## Projects
 
 ### 1. Bus Booking GUI 
-My team and I developed a bus booking GUI four our project submission using only Python and JSON for data capturing. Here's a glimpse to how our GUI looked like.
+My team and I developed a bus booking GUI for our project submission using only Python and JSON for data capturing. Here's a glimpse to how our GUI looked like.
 
 Login Page
 
