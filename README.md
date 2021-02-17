@@ -2,9 +2,9 @@
 
 Welcome to my github portfolio! A little bit about myself, I am a penultimate student at Nanyang Technological University majoring in Business Analytics, I have a keen interest in data and helping businesses identify and solve problems. 
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Bus Booking GUI 
 
 ```markdown
 Syntax highlighted code block
